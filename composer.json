@@ -1,0 +1,9 @@
+{
+    "name": "bitsoflove/profile-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Bitsoflove\\ProfileModule\\": "src/"
+        }
+    }
+}
