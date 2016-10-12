@@ -1,9 +1,19 @@
 {
     "name": "bitsoflove/profile-module",
     "type": "streams-addon",
+    "description": "",
     "autoload": {
         "psr-4": {
             "Bitsoflove\\ProfileModule\\": "src/"
         }
-    }
+    },
+    "keywords": ["pyro","module"],
+    "homepage": "https://github.com/bitsoflove/pyro_bol-profile-module",
+    "authors": [
+        {
+            "name": "Bits of Love",
+            "email": "docotorlove@bitsoflove.be",
+            "role": "Developer"
+        }
+    ]
 }
